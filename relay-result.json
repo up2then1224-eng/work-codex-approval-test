@@ -1,0 +1,6 @@
+{
+  "id": "probe-mw8mgdym",
+  "type": "read_synthetic_fixture",
+  "exitCode": 0,
+  "result": "SYNTHETIC_WINDOWS_RELAY_OK"
+}
